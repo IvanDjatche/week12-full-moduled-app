@@ -1,0 +1,5 @@
+ami = "ami-01eccbf80522b562b"
+name = "qa-server"
+region = "us-east-1"
+instance_type = "t2.micro"
+Team = "Utrains"
